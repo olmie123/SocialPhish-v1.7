@@ -24,3 +24,6 @@ Donate!
 ![image](https://user-images.githubusercontent.com/85249302/122694270-24f7f500-d23d-11eb-95a5-20838d228986.png)
 
 ![image](https://user-images.githubusercontent.com/85249302/122694533-ec0c5000-d23d-11eb-8ed8-5d225d62e844.png)
+
+Bitcoin Address:
+bc1qq3mp2z3z0pnajtz96nw33qkzkdgj497d4044dg
